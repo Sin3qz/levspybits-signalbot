@@ -8,6 +8,6 @@ S&P 500 SMA280 +9.0%  über
 US-TIPS SMA220 -2.8% unter
 ```
 Regel: MARKT, wenn S&P > SMA280 UND TIPS > SMA220; nach Wechsel 10 Tage Sperre.
-BTC (Info): 83.622 USD (29.09.)
+BTC (Info): 83.554 USD (30.09.)
 
 Hebel-ETPs: Pfad-/Emittentenrisiko. KEINE ANLAGEBERATUNG.
