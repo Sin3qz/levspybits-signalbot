@@ -1,13 +1,13 @@
 💵 levSpyBits: CASH (100%)
 Cooldown: frei (Wechsel möglich)
 
-Signale (USD, Stand 30.09.):
+Signale (USD, Stand 01.10.):
 ```
 Signal  Linie  Abst.
-S&P 500 SMA280 +9.0%  über
-US-TIPS SMA220 -2.8% unter
+S&P 500 SMA280 +9.1%  über
+US-TIPS SMA220 -2.5% unter
 ```
 Regel: MARKT, wenn S&P > SMA280 UND TIPS > SMA220; nach Wechsel 10 Tage Sperre.
-BTC (Info): 83.554 USD (30.09.)
+BTC (Info): 84.853 USD (01.10.)
 
 Hebel-ETPs: Pfad-/Emittentenrisiko. KEINE ANLAGEBERATUNG.

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T13:37:40.043033+02:00",
+  "updated": "2026-10-02T13:06:50.060123+02:00",
   "name": "levSpyBits",
   "strategy": "75% 3xSPY + 25% BTC (USD-Signale, SPY-SMA280/TIPS-SMA220, Cooldown 10)",
   "signals": {
@@ -7,28 +7,28 @@
       "key": "spy_usd",
       "name": "S&P 500 (USD)",
       "ticker": "^SP500TR",
-      "currentDate": "2026-09-30",
-      "expectedDate": "2026-09-30",
-      "current": 17160.41015625,
-      "sma": 15744.832993861608,
-      "diffPct": 8.990741044635264,
+      "currentDate": "2026-10-01",
+      "expectedDate": "2026-10-01",
+      "current": 17194.240234375,
+      "sma": 15755.681529017857,
+      "diffPct": 9.130412433811209,
       "fresh": true
     },
     "tips_usd": {
       "key": "tips_usd",
       "name": "US-TIPS (USD)",
       "ticker": "TIP",
-      "currentDate": "2026-09-30",
-      "expectedDate": "2026-09-30",
-      "current": 104.04000091552734,
-      "sma": 107.01159286499023,
-      "diffPct": -2.776887877196599,
+      "currentDate": "2026-10-01",
+      "expectedDate": "2026-10-01",
+      "current": 104.30999755859375,
+      "sma": 107.00130930813876,
+      "diffPct": -2.5152138482667175,
       "fresh": true
     }
   },
   "needsRetry": false,
   "dataWarnings": [],
-  "asOf": "2026-09-30",
+  "asOf": "2026-10-01",
   "firstDates": {
     "^SP500TR": "1988-01-04",
     "TIP": "2003-12-05"
@@ -62,13 +62,13 @@
       [
         "S&P 500 (^SP500TR)",
         "SMA280",
-        0.089907,
+        0.091304,
         "über"
       ],
       [
         "US-TIPS (TIP)",
         "SMA220",
-        -0.027769,
+        -0.025152,
         "unter"
       ]
     ],
@@ -83,11 +83,6 @@
     "span": "letzte 120 Handelstage",
     "what": "ob im Markt (Farbe) oder in Cash (grau)",
     "items": [
-      {
-        "date": "2026-04-10",
-        "lead": "MARKET",
-        "allocation": "MARKET"
-      },
       {
         "date": "2026-04-13",
         "lead": "MARKET",
@@ -682,11 +677,16 @@
         "date": "2026-09-30",
         "lead": "CASH",
         "allocation": "CASH"
+      },
+      {
+        "date": "2026-10-01",
+        "lead": "CASH",
+        "allocation": "CASH"
       }
     ]
   },
   "btc_info": {
-    "price": 83553.8515625,
-    "date": "2026-09-30"
+    "price": 84853.1015625,
+    "date": "2026-10-01"
   }
 }
