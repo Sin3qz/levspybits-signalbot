@@ -1,3 +1,3 @@
 {
-  "content": "💵 levSpyBits: CASH (100%)\nCooldown: frei (Wechsel möglich)\nℹ️ Kein neuer US-Handelstag seit 09.10. (Wochenende/Feiertag)\n\nSignale (USD, Stand 09.10.):\n```\nSignal  Linie  Abst.\nS&P 500 SMA280 +10.8%  über\nUS-TIPS SMA220 -2.4%  unter\n```\nRegel: MARKT, wenn S&P > SMA280 UND TIPS > SMA220; nach Wechsel 10 Tage Sperre.\nBTC (Info): 83.679 USD (11.10.)\n\nHebel-ETPs: Pfad-/Emittentenrisiko. KEINE ANLAGEBERATUNG."
+  "content": "💵 levSpyBits: CASH (100%)\nCooldown: frei (Wechsel möglich)\n\nSignale (USD, Stand 12.10.):\n```\nSignal  Linie  Abst.\nS&P 500 SMA280 +10.6%  über\nUS-TIPS SMA220 -2.3%  unter\n```\nRegel: MARKT, wenn S&P > SMA280 UND TIPS > SMA220; nach Wechsel 10 Tage Sperre.\nBTC (Info): 81.763 USD (12.10.)\n\nHebel-ETPs: Pfad-/Emittentenrisiko. KEINE ANLAGEBERATUNG."
 }
